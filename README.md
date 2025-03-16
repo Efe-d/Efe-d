@@ -4,7 +4,7 @@ Hi 👋 My name is Efe
 Web Developer and Mobile Developer
 ----------------------------------
 
-I'm studying in high school right now and since 3 years i'm doing my own project to improve myself on coding. I'm doing mostly web development but i love to do mobile apss aswell. I'm using github to improve myself more
+I'm studying in high school right now and since 5 years i'm doing my own project to improve myself on coding. I'm doing mostly web development but i love to do mobile apss aswell. I'm using github to improve myself more
 
 * 🌍  I'm based in Cyprus
 * ✉️  You can contact me at [efedolavci1@gmail.com](mailto:efedolavci1@gmail.com)
